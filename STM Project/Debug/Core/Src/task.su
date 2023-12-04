@@ -1,0 +1,7 @@
+../Core/Src/task.c:9:5:calc_digit	24	static
+../Core/Src/task.c:24:6:display7SEG	88	dynamic
+../Core/Src/task.c:131:6:toggle_yellow	88	dynamic
+../Core/Src/task.c:142:6:toggle_red	80	dynamic
+../Core/Src/task.c:153:6:toggle_green	80	dynamic
+../Core/Src/task.c:164:6:toggle_orange	88	dynamic
+../Core/Src/task.c:175:6:toggle_pink	80	dynamic
